@@ -1,0 +1,6 @@
+{
+  "name": "Random Number Generator",
+  "description": "A beautifully crafted, high-precision random number generator with batch generation, coin flipping, dice rolling, and list drawing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
